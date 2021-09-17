@@ -1,4 +1,5 @@
 # Code Refactor For Horiseon
+Link: [Horiseon](https://highdynamics.github.io/urban-octo-telegram-refactor)   
 
 Several changes were made to improve SEO and meet Accessibility Standards as well as improving the code for long-term sustainability.
 
@@ -15,11 +16,9 @@ Consolidated supurflous css rules and added comments to structure css file.
 
 ## Extra
 Resized the content images and icons.
-* This improves the loading time of the website.
+* This improves the loading time of the website.  
 
+<br><br>
 
-Link: [Horiseon](https://highdynamics.github.io/urban-octo-telegram-refactor)
-
-
-starter code by [Xandromus](https://github.com/Xandromus)
+starter code by [Xandromus](https://github.com/Xandromus)  
 forked repo [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
