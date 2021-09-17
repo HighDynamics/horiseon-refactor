@@ -21,4 +21,5 @@ Resized the content images and icons.
 Link: [Horiseon](https://highdynamics.github.io/urban-octo-telegram-refactor)
 
 
-starter code forked from [Xandromus](https://github.com/Xandromus)
+starter code by [Xandromus](https://github.com/Xandromus)
+forked repo [urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
