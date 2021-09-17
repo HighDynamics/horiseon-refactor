@@ -17,4 +17,8 @@ Consolidated supurflous css rules and added comments to structure css file.
 Resized the content images and icons.
 * This improves the loading time of the website.
 
+
+Link: [Horiseon](highdynamics.github.io/urban-octo-telegram-refactor)
+
+
 starter code forked from [Xandromus](https://github.com/Xandromus)
