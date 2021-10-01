@@ -1,5 +1,5 @@
 # Code Refactor For Horiseon
-Link: [Horiseon](https://highdynamics.github.io/urban-octo-telegram-refactor)   
+Link: [Horiseon](https://highdynamics.github.io/horiseon-refactor)   
 
 Several changes were made to improve SEO and meet Accessibility Standards as well as improving the code for long-term sustainability.
 
